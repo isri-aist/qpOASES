@@ -1,0 +1,13 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: qpOASES
+Source: https://github.com/coin-or/qpOASES
+
+Files: *
+Copyright: 2007-2017 Hans Joachim Ferreau, Andreas Potschka, Christian Kirches et al.
+License: LGPL-2.1
+ See /usr/share/common-licenses/LGPL-2.1
+
+Files: debian/*
+Copyright: 2022 Pierre Gergondet <pierre.gergondet+ppa@gmail.com>
+License: GPL-2
+ See /usr/share/common-licenses/GPL-2
